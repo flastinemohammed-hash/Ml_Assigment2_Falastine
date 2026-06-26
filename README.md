@@ -30,7 +30,6 @@ Place the dataset in the same directory as the notebook (or update the file path
 ├── Ass2_ML_Falastine.ipynb
 ├── marketing_campaign.csv
 ├── README.md
-└── requirements.txt (optional)
 ```
 
 ---
