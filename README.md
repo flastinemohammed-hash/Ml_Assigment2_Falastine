@@ -112,49 +112,7 @@ The project includes:
 * Seaborn
 * Scikit-learn
 
----
 
-## How to Run
-
-1. Clone the repository.
-
-```bash
-git clone <your-github-repository-link>
-```
-
-2. Navigate to the project folder.
-
-```bash
-cd <repository-name>
-```
-
-3. Install the required libraries.
-
-```bash
-pip install -r requirements.txt
-```
-
-Or install manually:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
-
-4. Launch Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-5. Open:
-
-```
-Ass2_ML_Falastine.ipynb
-```
-
-6. Run all cells from top to bottom.
-
----
 
 ## Results
 
